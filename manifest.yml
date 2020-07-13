@@ -1,0 +1,5 @@
+---
+applications:
+  - name: eureka-server-joanna
+    host: eureka-server-joanna
+    path: target\eureka-server-0.0.1-SNAPSHOT.jar
